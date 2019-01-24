@@ -1,0 +1,61 @@
+.octadesk__custom-form__submit,
+button.octadesk__custom-form__submit {
+    background: #F77F00;
+    margin-left: 38px;
+}
+
+.octadesk__custom-form__comment_description {
+    width: 240px;
+    font-weight: bold !important;
+    margin-left: 38px;
+}
+
+#octadesk__custom-form__comment-description {
+    width: 240px;
+    font-weight: bold !important;
+    margin-left: 38px;
+}
+
+#octadesk__custom-form__comment-description textarea {
+    border: 1px solid #BABABA;
+}
+
+.octadesk__custom-form__nome_do_solicitante {
+    width: 240px;
+    font-weight: bold;
+    margin-left: 38px;
+}
+
+.octadesk__custom-form__field#nome_do_solicitante {
+    border: 1px solid #BABABA;
+}
+
+.octadesk__custom-form__email_do_solicitante {
+    width: 240px;
+    font-weight: bold;
+    margin-left: 38px;
+}
+
+.octadesk__custom-form__field#email_do_solicitante {
+    border: 1px solid #BABABA;
+}
+
+.octadesk__custom-form__titulo_do_ticket {
+    width: 240px;
+    font-weight: bold;
+    margin-left: 38px;
+}
+
+.octadesk__custom-form__field#titulo_do_ticket {
+    border: 1px solid #BABABA;
+}
+
+.octadesk__custom-form__telefone {
+    width: 240px;
+    font-weight: bold;
+    margin-left: 38px;
+}
+
+.octadesk__custom-form__field#telefone {
+    border: 1px solid #BABABA;
+}

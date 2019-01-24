@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,600);
+
+body {
+  padding-top: 0px auto;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 0px auto;
+  }
+}
+
+.body {
+  background: #FFFFFF;
+}
+
+.business-header-rh {
+  height: 20vh;
+  min-height: 300px;
+  min-width: 1024px;
+  background: url('/img/imagens/rhtopo.png') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.business-header-control {
+  height: 20vh;
+  min-height: 300px;
+  min-width: 1024px;
+  background: url('/img/imagens/control-topo-medium.png') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.business-header-actioncar {
+  height: 20vh;
+  min-height: 300px;
+  min-width: 1024px;
+  background: url('/img/imagens/actioncar-topo-medium.png') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.t-media {
+  font-family: 'Roboto', Regular;
+  font-size: 18px;
+  color: #727272;
+  opacity: 1;
+}
+
+.t-media li {
+  white-space: nowrap;
+}
+
+.card {
+  height: 100%;
+}
+
+.seg {
+  padding-bottom: 100px;
+}
+
+.tt1 {
+  font-family: 'Roboto', light;
+  font-size: 38px;
+  color: #0A72FF;
+}
+
+.tt {
+  font-family: 'Roboto', Regular;
+  font-size: 30px;
+  color: black;
+}
+
+.logo {
+  margin-top: 30px;
+}
+
+.media {
+  padding-bottom: 50px;
+}
+
+.form-oc {
+  padding-left: 80px;
+}
+
+.mock {
+  margin-top: 100px;
+  padding-left: 50px;
+}
+
+.octa-i {
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 3px 6px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 3px 6px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 3px 6px 1px rgba(0, 0, 0, 0.75);
+}
